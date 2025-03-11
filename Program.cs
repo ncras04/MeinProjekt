@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hallo Welt!");
+            Console.WriteLine("Hallo git!");
+            Console.WriteLine("Wie geht es dir?");
         }
     }
 }
