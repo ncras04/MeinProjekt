@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hallo git!");
             Console.WriteLine("Wie geht es dir?");
+            Console.WriteLine("Ich schreibe meinen Code.");
         }
     }
 }
